@@ -16,5 +16,6 @@ setuptools
 sox
 bs4
 requests
+audioread == 2.1.6
 librosa
 soundfile
